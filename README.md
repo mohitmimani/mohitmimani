@@ -2,7 +2,7 @@
 <img align='right' src="./html-css.svg" height="" width="300" alt="Basic of web">
 </h1>
 
-<h3> I am a Web developer .</h3>
+<h3> I am a Web developer.Have a great expreience i making website.I design website using react js and tailwind css.<a href="freelancermohit.ml">Know more</a></h3>
 
 
 <hr>
