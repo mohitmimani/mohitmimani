@@ -1,5 +1,5 @@
 <h1> Hey there 👋, This is Mohit Mimani!
-<img align='right' src="./me.svg" height="" width="300" alt="Programming Man">
+<img align='right' src="./html-css.svg" height="" width="300" alt="Programming Man">
 </h1>
 
 <h3> I am a Web developer.</h3>
@@ -7,15 +7,11 @@
 
 <hr>
 
-<h4>Skills:
-<img src="./html-css.svg" width="480" align="center">&nbsp;  
-<img src="./css3-icon.png" width="48" align="center">&nbsp;  
-
-</h4>
 
 
 
-<hr>
+
+
 
 <br>
 
