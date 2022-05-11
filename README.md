@@ -3,7 +3,7 @@
 </h1>
 
 <ul>
-  <li> I am a Web developer</li
+  <li>I am a Web developer</li>
   <li>Have a great expreience in making website</li> 
   <li>I design website using react js and tailwind css</li> 
   <li>You can visit
