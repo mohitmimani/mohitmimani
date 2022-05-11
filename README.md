@@ -10,10 +10,10 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmimani&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmimani&show_icons=true&theme=radical)
-<hr>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitmimani&show_icons=true&theme=radical)  
-<hr>
+
 ![Profile views](https://gpvc.arturio.dev/Amohitmimani)  
-<hr>
+
