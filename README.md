@@ -7,7 +7,7 @@
   <li>Have a great expreience in making website</li> 
   <li>I design website using react js and tailwind css</li> 
   <li>You can visit
-    <a href="freelancermohit.ml">here</a>
+    <a href="https://freelancermohit.ml">here</a>
     to know about me and see my work
   </li>
 </ul>
