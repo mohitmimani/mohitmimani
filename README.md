@@ -1,7 +1,6 @@
 <h1> Hey there 👋, This is Mohit Mimani!
 <img align='right' src="./html-css.svg" height="" width="300" alt="Basic of web">
 </h1>
-<img align='center' src="./Mohit mimani.png" alt="Basic of web">
 <ul>
   <li>I am a Web developer</li>
   <li>Have a great expreience in making website</li> 
@@ -11,7 +10,8 @@
     to know about me and see my work
   </li>
 </ul>
-
+<hr>
+<img align='center' src="./Mohit mimani.png" height="300" alt="Me">
 
 <hr>
 
