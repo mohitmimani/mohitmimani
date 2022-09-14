@@ -16,7 +16,12 @@
 <hr>
 
 <br>
-
+<h2>
+Technology i use
+</h2>
+	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmimani&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmimani&show_icons=true&theme=radical)
