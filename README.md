@@ -1,29 +1,9 @@
 <h1> 
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20Mohit%20Mimani)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20Mohit%20Mimani)](https://freelancermohit.ml)
   
 </h1>
-<ul>
-  <li>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80F7A2&multiline=true&width=435&lines=A+web+developer)](https://git.io/typing-svg)
-  
-  </li>
-  <li>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80F7A2&multiline=true&width=435&lines=Have+a+great+expreience+in+making+website)](https://git.io/typing-svg)
-  
-  </li> 
-  <li>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80F7A2&multiline=true&width=435&lines=I+design+website+using+react+js+and+tailwind+css)](https://git.io/typing-svg)
-  
-  </li> 
-  <li>You can visit
-    <a href="https://freelancermohit.ml">here</a>
-    to know about me and see my work
-  </li>
-</ul>
+
 <hr>
 <h2>
 Technology i use
