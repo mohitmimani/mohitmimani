@@ -1,5 +1,4 @@
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20Mohit%20Mimani)](https://freelancermohit.ml)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web%20Developer)](https://freelancermohit.ml)
  
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohitMimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
