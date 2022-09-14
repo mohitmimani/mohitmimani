@@ -19,7 +19,8 @@
 <h2>
 Technology i use
 </h2>
-	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<hr>
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmimani&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
