@@ -1,5 +1,6 @@
 <h1> 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Mohit Mimani)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20Mohit%20Mimani)](https://git.io/typing-svg)
   
 </h1>
 <ul>
