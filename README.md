@@ -15,9 +15,9 @@ Technology i use
 <hr>
 <h2>Social<h2>
   
-![Yt](https://img.shields.io/youtube/channel/views/UCfhRHeex9lU0ZAVJot6Z2ZQ?style=social)(https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ)
+[![Yt](https://img.shields.io/youtube/channel/views/UCfhRHeex9lU0ZAVJot6Z2ZQ?style=social)](https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ)
   
- ![Yt-subs](https://img.shields.io/youtube/channel/subscribers/UCfhRHeex9lU0ZAVJot6Z2ZQ?style=social)(https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ)
+[![Yt-subs](https://img.shields.io/youtube/channel/subscribers/UCfhRHeex9lU0ZAVJot6Z2ZQ?style=social)](https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ)
 
 <br>
   
