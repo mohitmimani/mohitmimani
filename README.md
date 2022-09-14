@@ -16,8 +16,9 @@
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
-<h2>
   <hr>
+
+<h2>
 Skills
 </h2>
 
@@ -30,8 +31,10 @@ Skills
   
 [![Yt-subs](https://img.shields.io/youtube/channel/subscribers/UCfhRHeex9lU0ZAVJot6Z2ZQ?style=social)](https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ)
 
-<br>
-  
+<hr>
+  <h2>
+Stats
+</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmimani&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitmimani&show_icons=true&theme=radical)
