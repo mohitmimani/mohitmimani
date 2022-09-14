@@ -1,4 +1,6 @@
-<h1> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Mohit Mimani)](https://git.io/typing-svg)
+<h1> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Mohit Mimani)](https://git.io/typing-svg)
+  
 </h1>
 <ul>
   <li>A Web developer</li>
