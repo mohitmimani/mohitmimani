@@ -1,7 +1,7 @@
-<h1> Hey there 👋, This is Mohit Mimani!
+<h1> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am Mohit Mimani)](https://git.io/typing-svg)
 </h1>
 <ul>
-  <li>I am a Web developer</li>
+  <li>A Web developer</li>
   <li>Have a great expreience in making website</li> 
   <li>I design website using react js and tailwind css</li> 
   <li>You can visit
