@@ -1,12 +1,11 @@
 <img width="100%" align="right" alt="Web Dev" src="https://github.com/mohitmimani/mohitmimani/blob/main/Web_Dev.png?raw=true"/>
-<hr>
 
 
+&nbsp;
 
-<hr>
 <div align="center">
  
-&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mohit+Mimani)](https://freelancermohit.ml)
+&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mohit+Mimani)](https://freelancermohit.ml)
  
 </div>
 
