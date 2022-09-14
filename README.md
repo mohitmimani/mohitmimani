@@ -5,7 +5,7 @@
 </h1>
 <hr>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mohit%20Mimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohitMimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <hr>
 
