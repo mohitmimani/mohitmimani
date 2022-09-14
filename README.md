@@ -1,10 +1,9 @@
 <h1> 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20Mohit%20Mimani)](https://freelancermohit.ml)
-  
+ 
 </h1>
 
-<hr>
 <h2>
 Technology i use
 </h2>
