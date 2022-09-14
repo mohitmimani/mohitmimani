@@ -9,7 +9,7 @@
     to know about me and see my work
   </li>
 </ul>
-<br>
+<hr>
 <h2>
 Technology i use
 </h2>
