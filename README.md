@@ -1,6 +1,5 @@
 <img width="100%" align="right" alt="Web Dev" src="https://github.com/mohitmimani/mohitmimani/blob/main/Web_Dev.png?raw=true"/>
-
-<hr> 
+<hr>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web%20Developer)](https://freelancermohit.ml)
  
