@@ -5,7 +5,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20Web%20Developer)](https://freelancermohit.ml)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mohit+Mimani)](https://freelancermohit.ml)
  
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohitMimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
