@@ -14,7 +14,6 @@
 <img align='center' src="./Mohit mimani.png" height="300" alt="Me">
 
 <hr>
-
 <br>
 <h2>
 Technology i use
