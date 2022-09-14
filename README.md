@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mohit+Mimani)](https://freelancermohit.ml)
+&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Mohit+Mimani)](https://freelancermohit.ml)
  
 </div>
 
