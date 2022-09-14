@@ -4,6 +4,11 @@
  
 </h1>
 <hr>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mohit%20Mimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<hr>
+
 <h2>
 Technology i use
 </h2>
