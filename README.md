@@ -5,11 +5,11 @@
 
 <div align="center">
  
-&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Mohit+Mimani,+Web+Developer)](https://freelancermohit.ml)
+&nbsp; [![Mohit Mimani](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Mohit+Mimani,+Web+Developer)](https://freelancermohit.ml)
  
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohitMimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=MohitMimani&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <hr>
 <h2> About Me </h2>
