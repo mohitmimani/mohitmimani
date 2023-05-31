@@ -5,7 +5,7 @@
 
 <div align="center">
  
-&nbsp; [![Mohit Mimani](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Mohit+Mimani,+Web+Developer)](https://freelancermohit.ml)
+&nbsp; [![Mohit Mimani](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Mohit+Mimani,+Web+Developer)]
  
 </div>
 
