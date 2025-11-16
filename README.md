@@ -15,21 +15,20 @@
 <br>
 <br>
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=16548&api_domain=hackatime.hackclub.com&custom_title=🦾&layout=compact&cache_seconds=0&langs_count=8&title_color=CFCFCF&text_color=CFCFCF&bg_color=2D2E2E&icon_color=CFCFCF&hide_border=true" 
+    width="350"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmimani&background=2D2E2E&border=00000000&stroke=CFCFCF&ring=CFCFCF&fire=CFCFCF&currStreakNum=CFCFCF&sideNums=CFCFCF&currStreakLabel=CFCFCF&sideLabels=CFCFCF&dates=888888" 
+    width="350"
+  />
+</p>
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=16548&api_domain=hackatime.hackclub.com&custom_title=🦾&layout=compact&cache_seconds=0&langs_count=8&title_color=CFCFCF&text_color=CFCFCF&bg_color=2D2E2E&icon_color=CFCFCF&hide_border=true" width="350" />
-</td>
-
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitmimani&background=2D2E2E&border=00000000&stroke=CFCFCF&ring=CFCFCF&fire=CFCFCF&currStreakNum=CFCFCF&sideNums=CFCFCF&currStreakLabel=CFCFCF&sideLabels=CFCFCF&dates=888888" width="350" />
-</td>
-</tr>
 </table>
 
-</div>
+
 
 
 
